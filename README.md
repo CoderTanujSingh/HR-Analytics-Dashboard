@@ -27,8 +27,8 @@ This HR Analytics Dashboard provides a comprehensive analysis of employee attrit
 
 #PowerBI #HRAnalytics #DataAnalytics #BusinessIntelligence #DashboardDesign #DataVisualization #HRDashboard #AnalyticsProject #DAX #PowerQuery #DataAnalyst
 
-<img width="710.5" height="401" alt="image" src="https://github.com/user-attachments/assets/f30a782c-33bd-442e-815d-0f67d4169c9d" /> <br>
-<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/7f409533-e8d1-4483-a93f-03d0099a8fac" />
-<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/5e37d968-3dd9-46a0-9e14-3d74620120bf" />
+<img width="710.5" height="401" alt="image" src="https://github.com/user-attachments/assets/898f1927-d5b7-4566-b2e0-898cf6011f2f" /> <br>
+<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/741745c9-35c1-4005-bd41-aa1e06f88300" />
+<img width="355.25" height="200.5" alt="image" src="https://github.com/user-attachments/assets/f38e933a-e0c2-44e7-af44-e08df154967b" />
 
 
